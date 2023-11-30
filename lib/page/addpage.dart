@@ -125,6 +125,7 @@ class _InputPageState extends State<InputPage> {
           textAlignVertical: TextAlignVertical.top,
         ),
       ),
+      backgroundColor: Color.fromRGBO(250, 193, 48, 1),
     );
   }
 }
